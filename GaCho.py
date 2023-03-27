@@ -1,0 +1,6 @@
+a,b=input().split()
+a=int(a)
+b=int(b)
+g=int((a*4-b)/2)
+c=int(a-g)
+print(str(g)+" "+str(c))

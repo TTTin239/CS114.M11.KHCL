@@ -1,0 +1,13 @@
+Nhóm EEE:
+ 3 thành viên:
+	19522245-Võ Nhật Thanh
+	19522351-Trần Trung Tín
+	19522174-Nguyễn Ngọc Tân
+Bài toán đặt ra là nhận diện sản phẩm và đưa ra giá của sản phẩm đó
+	Input: Images của các sản phẩm cần nhận diện
+	Output: Tên của sản phẩm đó và giá tiền của sản phẩm
+Bài toán được ứng dụng vào các cửa hàng buôn bán tạp hóa, sẽ dùng để kiểm tra thông tin sản phẩm và giúp tính toán giá tiền nhanh hơn.
+Dữ liệu để huấn luyện và kiểm tra sẽ được thu thập bằng nhờ bạn bè chụp và quay các đồ vật hàng hóa thường ngày mọi người hay sử dụng. Lấy khoảng 1000 dữ liệu.
+Mục tiêu đạt được:
+	Nhận dạng được đồ vật và đưa ra giá tiền cao.
+	Vận dụng được các kiến thức đã học vào đồ án.
